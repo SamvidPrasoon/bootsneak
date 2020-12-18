@@ -1,0 +1,22 @@
+.image {
+width: 100%;
+height: 50vh;
+
+
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.bottom-left {
+  position: absolute;
+  bottom: 45%;
+  left: 10%;
+}
+H1
+{
+color: white;
+}
+.area{
+height: 20vh;
+
+
+}
